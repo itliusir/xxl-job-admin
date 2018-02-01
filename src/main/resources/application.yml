@@ -33,6 +33,3 @@ quartz:
     configLocation: quartz.properties
 server:
     port: 8997
-xxl:
-    job:
-        login:

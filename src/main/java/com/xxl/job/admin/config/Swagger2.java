@@ -33,7 +33,7 @@ public class Swagger2 {
         return new ApiInfoBuilder()
                 .title("任务调度服务 APIs")
                 .description("任务调度服务")
-                .contact(new Contact("ysstech","www.ysstech.com","dev@ysstech.com"))
+                .contact(new Contact("itliusir","www.itliusir.com","liugang@itliusir.com"))
                 .version("1.0")
                 .build();
     }
