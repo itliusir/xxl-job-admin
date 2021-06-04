@@ -29,7 +29,7 @@
 		<mybatis.version>3.4.5</mybatis.version>
 		<groovy-all.version>2.4.13</groovy-all.version>
 		<quartz.version>2.3.2</quartz.version>
-		<httpclient.version>4.5.4</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 		<pagehelper.version>4.1.1</pagehelper.version>
 		<mapper.version>3.4.0</mapper.version>
 	</properties>
